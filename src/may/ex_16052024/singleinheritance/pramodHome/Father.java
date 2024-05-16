@@ -5,4 +5,8 @@ public class Father {
         System.out.println("Father 2BHK House");
     }
 
+    private void island(){
+
+    }
+
 }
