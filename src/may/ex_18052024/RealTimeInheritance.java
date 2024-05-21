@@ -12,7 +12,8 @@ public class RealTimeInheritance {
 class Test1 extends BaseClass{
     @Override
     public void setBrowser(String browser, boolean isAuth) {
-        super.setBrowser(browser, isAuth);
+//        super.setBrowser(browser, isAuth);
+        System.out.println("I am done");
     }
 }
 
