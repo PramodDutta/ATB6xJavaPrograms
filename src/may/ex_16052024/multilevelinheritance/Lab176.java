@@ -20,7 +20,7 @@ public class Lab176 {
         GrandFather grandFather3 = new Child();
 
         Father f1 = new Child();
-        f1.home();
+        f1.extra();
 
 //        Child c1 = new GrandFather();
 //        Father c2 = new GrandFather();
